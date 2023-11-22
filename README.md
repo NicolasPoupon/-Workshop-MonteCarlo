@@ -27,7 +27,7 @@ sudo apt install python3-pip
 Clonez le repository et préparez votre environnement.
 
 ```
-git clone git@github.com:NicolasPoupon/Workshop-MonteCarlo.git
+git clone git@github.com:NicolasPoupon/-Workshop-MonteCarlo.git
 ```
 
 <h2>Étape 2 : Comprendre le Jeu de Base</h2>
